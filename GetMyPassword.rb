@@ -1,3 +1,5 @@
+# this line is updated at Apr. 18, 2013
+
 # this function add two integer array to a single array which has the length as the shorter one
 # in this program, it adds two array of ascii number of the site name and the key
 def addToShortArray(short_array, long_array)
